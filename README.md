@@ -2,7 +2,7 @@
 
 ## What is the course about?
 
-Сourse repository is dedicated to CPU and OS simulation in third bachelor semester at MIPT.
+Elective course repository is dedicated to CPU and OS simulation in third bachelor semester at MIPT.
 
 All teaching materials used during the semester are [here](slides/).
 
@@ -34,7 +34,7 @@ Here are the results of a comparison of four different models on a [test](test/c
 5.  [ELF](slides/04_ELF.pdf)
 6.  [Advanced Interptreters](slides/05_Interpreter+.pdf)
 7.  [Full-System Simulation](slides/06_FSS.pdf)
-8.  [Trace Driver Simulation](slides/07_TDS.pdf)
+8.  [Trace Driven Simulation](slides/07_TDS.pdf)
 9.  [Cycle-Accurate Models](slides/08_CA_models.pdf)
 10. [Caches](slides/09_Caches.pdf)
 11. [Program Execution Analysis](slides/10_Program_Execution_Analysis.pdf)
