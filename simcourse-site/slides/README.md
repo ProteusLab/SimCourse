@@ -1,5 +1,3 @@
-## Internals
-
 1.  [Software Modeling](Fall/01_Software_Modeling.pdf)
     - History of software modeling
     - Computer Science Stack: HW & SW layouts, ISA

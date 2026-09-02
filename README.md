@@ -1,10 +1,12 @@
 # CPU & OS simulation Elective Course
 
+Course website: <https://proteuslab.github.io/SimCourse/>
+
 ## What is the course about?
 
 Сourse repository is dedicated to CPU and OS simulation in third bachelor semester at MIPT.
 
-All teaching materials used during the semester are [here](slides/).
+All teaching materials used during the semester are [here](simcourse-site/slides/).
 
 ## Demo Code
 
