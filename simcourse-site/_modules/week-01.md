@@ -1,6 +1,5 @@
 ---
 title: Лекция 1 · Программное моделирование
-published: false
 ---
 
 [Слайды]({{ site.baseurl }}/slides/Fall/01_Software_Modeling.pdf){: .btn .btn-outline }
