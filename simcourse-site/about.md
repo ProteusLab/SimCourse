@@ -37,8 +37,8 @@ description: Описание и программа курса.
 ### Осенний семестр
 
 1. [Программное моделирование]({{ site.baseurl }}/slides/Fall/01_Software_Modeling.pdf)
-1. Простые интерпретаторы
-1. Введение к Ruby
+1. [Простые интерпретаторы]({{ site.baseurl }}/slides/Fall/02_Interpreters.pdf)
+1. [Введение в Ruby, метапрограммирование]({{ site.baseurl }}/slides/Fall/03_Ruby_Intro.pdf)
 1. Виртуальная память и ELF
 1. Двоичная трансляция
 1. Языки описания архитектуры (ADL)

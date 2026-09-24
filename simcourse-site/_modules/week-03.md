@@ -1,6 +1,5 @@
 ---
-published: false
-title: Лекция 3 · Декодер и метапрограммирование
+title: Лекция 3 · Введение в Ruby, метапрограммирование
 ---
 
 [Слайды]({{ site.baseurl }}/slides/Fall/03_Ruby_Intro.pdf){: .btn .btn-outline }
