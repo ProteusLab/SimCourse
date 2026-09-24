@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Преподаватели
-nav_order: 5
+nav_order: 6
 description: Список преподавателей и ассистентов курса.
 ---
 

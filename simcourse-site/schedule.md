@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Расписание
-nav_order: 4
+nav_order: 5
 description: Недельное расписание занятий.
 ---
 
